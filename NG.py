@@ -2143,4 +2143,4 @@ def main():
             print("🔧 Please stop any running instances and restart the bot")
 
 if __name__ == '__main__':
-    main(
+    main()
